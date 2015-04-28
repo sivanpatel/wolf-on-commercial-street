@@ -1,6 +1,6 @@
 February 20th, 2015
 
-## Round 1: Wolf on Commercial Street 
+## Round 2: Wolf on Commercial Street 
 
 Your objective is to write a method that will work out the best days to buy and sell a stock. For example, take an array of stock prices:
 
