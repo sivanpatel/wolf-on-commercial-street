@@ -10,7 +10,7 @@ Indices reprepresent days. So on Day 0, the price of the stock was 10. On Day 1,
 
 Your method should return the buy day and sell day in a hash. In this instance:
 
-method_name(stock_price) #=> { buy_day: 5, sell_day: 9 }
+method_name(stock_price) #=> { buy_day: 5, sell_day: 8 }
 
 Good luck!
 -Ptolemy
