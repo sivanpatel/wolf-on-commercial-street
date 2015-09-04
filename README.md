@@ -11,4 +11,4 @@ Indices reprepresent days. So on Day 0, the price of the stock was 10. On Day 1,
 Good luck!
 -Ptolemy
 
-p.s no shorting.
+p.s No shorting! This means that the buy day *has* to come before the sell day.
